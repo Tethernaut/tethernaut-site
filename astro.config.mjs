@@ -2,6 +2,5 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://tethernaut.github.io",
-  base: "tethernaut-site",
+  site: "https://www.tethernaut.com",
 });
