@@ -9,6 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource-variable/exo-2": "^5.2.6",
     "astro": "^5.10.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.0",
+    "prettier-plugin-astro": "^0.14.1"
   }
 }
